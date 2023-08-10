@@ -69,9 +69,11 @@ Follow the given steps to instal Lokon Theme in your browser
 
 # Contributions and Issues
 
-Got Contributions, fun ideas, or issues? [Submit an issue](https://github.com/aliaaquib/lokon/issues/new).  
+> Contributions are always welcome, but always **ask first**, — please — before work on a PR.
 
-Is something bothering you? Feel free to submit [your feedback](https://github.com/aliaaquib/lokon/issues/new).
+- Got Contributions, fun ideas, or issues? [Submit an issue](https://github.com/aliaaquib/lokon/issues/new).  
+
+- Is something bothering you? Feel free to submit [your feedback](https://github.com/aliaaquib/lokon/issues/new).
 
 **Help make Lokon better!**
 
