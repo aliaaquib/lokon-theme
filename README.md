@@ -68,7 +68,7 @@ Is something bothering you? Feel free to submit [your feedback](https://github.c
 ## Dev Setup
 [Coming Soon...](#)
 
-## Enjoying the plugin?
+## Enjoying the Theme?
 Great! I am glad you like i t!
 
 Just here to show us some love? We 💛 social appreciation, whether it be GitHub stars, [Twitter](https://twitter.com/imaaquibali) follows, or shouting to your coworkers across the office.
