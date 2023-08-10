@@ -84,6 +84,6 @@ Just here to show us some love? We 💛 social appreciation, whether it be **Git
 
 # License
 
-[MIT © Aaquib Ali](https://github.com/aliaaquib/assets/blob/main/LICENSE)
+[MIT © Lokon Theme](https://github.com/aliaaquib/LICENSE)
 
 ---
