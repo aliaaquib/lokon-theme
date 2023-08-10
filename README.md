@@ -83,6 +83,6 @@ Great! I am glad you like it!
 Just here to show us some love? We 💛 social appreciation, whether it be **GitHub stars**, [Twitter](https://twitter.com/imaaquibali) follows, or shouting to your coworkers across the office.
 
 # License
+[MIT © Lokon Theme]()
 
-[MIT © Lokon Theme](https://github.com/aliaaquib/lokon-theme/blob/main/LICENSE)
 ---
