@@ -6,7 +6,7 @@
 <!-- <p align="center">Give your web browse a cool look with a timeless dark theme.</p> -->
 
 <p align="center"> 
-Give your web browse a cool look with a timeless look theme
+Give your browser a cool, cosmic look. Enjoy the web in style!
   <br><br>
   <!-- ProductHunt -->
   <a href="https://www.producthunt.com/posts/aura-theme">
