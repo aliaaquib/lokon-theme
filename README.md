@@ -62,7 +62,7 @@ Follow the given steps to instal Lokon Theme in your browser
 1. Open your browser
 1. Open the Extension Management page
 1. Enable Developer Mode by clicking the toggle switch next to Developer mode.
-1. Click the LOAD UNPACKED button and select the lokon directory.
+1. Click the LOAD UNPACKED button and select the lokon-theme directory.
 1. Enjoy!
 
 
@@ -70,19 +70,17 @@ Follow the given steps to instal Lokon Theme in your browser
 
 > Contributions are always welcome, but always **ask first**, — please — before work on a PR.
 
-- Got Contributions, fun ideas, or issues? [Submit an issue](https://github.com/aliaaquib/lokon/issues/new).  
+- Got Contributions, fun ideas, or issues? [Submit an issue](https://github.com/aliaaquib/lokon-theme/issues/new).  
 
-- Is something bothering you? Feel free to submit [your feedback](https://github.com/aliaaquib/lokon/issues/new).
-
-**Help make Lokon better!**
+- Is something bothering you? Feel free to submit [your feedback](https://github.com/aliaaquib/lokon-theme/issues/new).
 
 ## Dev Setup
 [Coming Soon...](#)
 
 ## Enjoying the Theme?
-Great! I am glad you like i t!
+Great! I am glad you like it!
 
-Just here to show us some love? We 💛 social appreciation, whether it be GitHub stars, [Twitter](https://twitter.com/imaaquibali) follows, or shouting to your coworkers across the office.
+Just here to show us some love? We 💛 social appreciation, whether it be **GitHub stars**, [Twitter](https://twitter.com/imaaquibali) follows, or shouting to your coworkers across the office.
 
 # License
 
