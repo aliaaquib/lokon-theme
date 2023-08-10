@@ -85,4 +85,8 @@ Great! I am glad you like i t!
 
 Just here to show us some love? We 💛 social appreciation, whether it be GitHub stars, [Twitter](https://twitter.com/imaaquibali) follows, or shouting to your coworkers across the office.
 
+# License
+
+[MIT © Aaquib Ali](https://github.com/aliaaquib/assets/blob/main/LICENSE)
+
 ---
