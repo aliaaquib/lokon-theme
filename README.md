@@ -3,13 +3,11 @@
   <img src="https://github.com/aliaaquib/assets/blob/main/images/lokon-theme/lokon-dark-logo.png?raw=true" alt="Lokon Theme" width="30%" />
 </p>
 
-<!-- <p align="center">Give your web browse a cool look with a timeless dark theme.</p> -->
-
 <p align="center"> 
 Give your browser a cool, cosmic look. Enjoy the web in style!
   <br><br>
   <!-- ProductHunt -->
-  <a href="https://www.producthunt.com/posts/aura-theme">
+  <a href="https://www.producthunt.com/posts/lokon-theme">
     <img alt="producthunt url" src="https://img.shields.io/badge/vote%20on-producthunt-1C1E26?style=for-the-badge&labelColor=1C1E26&color=61ffca">
   </a>
 </p>
