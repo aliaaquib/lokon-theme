@@ -1,128 +1,42 @@
 {
-    "name":"Lokon",
-    "version":"1.0",
-    "description":"Make your web browser look cool with a timeless dark theme. Enjoy the web in style!",
-    "author":"Aaquib Ali",
-    "manifest_version":3,
-    "permissions": ["tabs","storage", "<all_urls>", "contextMenus"],
-    "homepage_url": "https://github.com/aliaaquib/lokon",
-    "offline_enabled": true,
-    "theme":{
-        "colors":{
-            "frame":[
-                0,
-                0,
-                0
-            ],
-            "frame_inactive":[
-                0,
-                0,
-                0
-            ],
-            "frame_incognito":[
-                0,
-                0,
-                0
-            ],
-            "frame_incognito_inactive":[
-                0,
-                0,
-                0
-            ],
-            "background_tab":[
-                0,
-                0,
-                0
-            ], 
-            "background_tab_inactive":[
-                0,
-                0,
-                0
-            ], 
-            "background_tab_incognito":[
-                0,
-                0,
-                0
-            ], 
-            "background_tab_incognito_inactive":[
-                0,
-                0,
-                0
-            ], 
-            "toolbar":[
-                53,
-                57,
-                60
-            ],
-            "tab_text":[
-                238,
-                238,
-                238
-            ],
-            "tab_background_text":[
-                170,
-                170,
-                170
-            ],
-            "tab_background_text_inactive":[
-                170,
-                170,
-                170
-            ],
-            "tab_background_text_incognito":[
-                170,
-                170,
-                170
-            ],
-            "tab_background_text_incognito_inactive":[
-                170,
-                170,
-                170
-            ],
-            "bookmark_text":[
-                170,
-                170,
-                170
-            ],
-            "ntp_background":[
-                0,
-                0,
-                0
-            ],
-            "ntp_text":[
-                238,
-                238,
-                238
-            ],
-            "ntp_link":[
-                238,
-                238,
-                238
-            ],
-            "ntp_header":[
-                238,
-                238,
-                238
-            ],
-            "button_background":[
-                170,
-                170,
-                170,
-                0
-            ]
-        },
-        "tints":{
-            "buttons":[
-                0,
-                0,
-                0.93
-            ]
-        }
+  "name": "Lokon",
+  "version": "1.0",
+  "description": "Make your web browser look cool with a timeless dark theme. Enjoy the web in style!",
+  "author": "Aaquib Ali",
+  "manifest_version": 3,
+  "permissions": ["tabs", "storage", "<all_urls>", "contextMenus"],
+  "homepage_url": "https://github.com/aliaaquib/lokon",
+  "offline_enabled": true,
+  "theme": {
+    "colors": {
+      "frame": [21, 20, 27],
+      "frame_inactive": [45, 43, 56],
+      "toolbar": [21, 20, 27],
+      "toolbar_button_icon": [255, 255, 255],
+      "ntp_background": [21, 20, 27],
+      "ntp_text": [237, 236, 238],
+      "ntp_link": [237, 236, 238],
+      "ntp_section": [162, 119, 255],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [237, 236, 238],
+      "bookmark_text": [237, 236, 238],
+      "omnibox_text": [255, 255, 255],
+      "omnibox_background": [17, 15, 24]
     },
-    "icons":{
-        "16":"images/icon-16.png",
-        "48":"images/icon-48.png",
-        "128":"images/icon-128.png",
-        "256":"images/icon-256.png"
+    "tints": {
+      "buttons": [0, 0, 0.93]
+    },
+    "preperties": {
+      "ntp_background_alignment": "bottom"
+    },
+    "images": {
+      "theme_toolbar": "images/theme_tab_background.png"
+    },
+    "icons": {
+      "16": "images/icon-16.png",
+      "48": "images/icon-48.png",
+      "128": "images/icon-128.png",
+      "256": "images/icon-256.png"
     }
+  }
 }
