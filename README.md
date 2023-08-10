@@ -1,13 +1,23 @@
 <p align="center">
-  <img src="assets/icon.png" width="80" />
-  <h2 align="center"> Lokon </h2>
+  <img src="https://github.com/aliaaquib/assets/blob/main/images/lokon-theme/lokon-dark-logo.png?raw=true" />
 </p>
 
-<p align="center">Give your web browse a cool look with a timeless dark theme.</p>
+<!-- <p align="center">Give your web browse a cool look with a timeless dark theme.</p> -->
 
-<!-- # Doki Theme Web
-| Google Chrome                                                   | Microsoft Edge                                          | Brave                                                                   |
-|-----------------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------------------------| -->
+<p align="center"> 
+Give your web browse a cool look with a timeless look theme
+  <br><br>
+  <!-- ProductHunt -->
+  <a href="https://www.producthunt.com/posts/aura-theme">
+    <img alt="producthunt url" src="https://img.shields.io/badge/vote%20on-producthunt-1C1E26?style=for-the-badge&labelColor=1C1E26&color=61ffca">
+  </a>
+</p>
+
+<p align="center">
+  <img alt="preview" src="https://github.com/aliaaquib/assets/blob/main/images/lokon-theme/chrome-preview.png?raw=true" >
+</p>
+
+<br/>
 
 # Table of Contents
 
