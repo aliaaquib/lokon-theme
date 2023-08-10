@@ -11,7 +11,7 @@
 
 # Table of Contents
 
-**Note**: Lokon New Tab feature is [Coming Soon...](#)
+**Note**: Lokon Extension feature is [Coming Soon...](#)
 
 - [Feature Set](#feature-set)
 - [Installation](#installation)
@@ -51,8 +51,7 @@ Follow the given steps to instal Lokon Theme in your browser
 ### Steps
 1. Clone this repository
 1. Open your browser
-1. Open the Extension Management page 
-    - The Extension Management page can also be opened by clicking on the browesr menu, hovering over More Tools then selecting Extensions.
+1. Open the Extension Management page
 1. Enable Developer Mode by clicking the toggle switch next to Developer mode.
 1. Click the LOAD UNPACKED button and select the lokon directory.
 1. Enjoy!
