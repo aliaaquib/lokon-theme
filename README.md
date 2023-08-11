@@ -1,14 +1,13 @@
+<br>
 <p align="center">
   <img src="https://github.com/aliaaquib/assets/blob/main/images/lokon-theme/lokon-dark-logo.png?raw=true" alt="Lokon Theme" width="30%" />
 </p>
 
-<!-- <p align="center">Give your web browse a cool look with a timeless dark theme.</p> -->
-
 <p align="center"> 
-Give your web browse a cool look with a timeless look theme
+Give your browser a cool, cosmic look. Enjoy the web in style!
   <br><br>
   <!-- ProductHunt -->
-  <a href="https://www.producthunt.com/posts/aura-theme">
+  <a href="https://www.producthunt.com/posts/lokon-theme">
     <img alt="producthunt url" src="https://img.shields.io/badge/vote%20on-producthunt-1C1E26?style=for-the-badge&labelColor=1C1E26&color=61ffca">
   </a>
 </p>
@@ -63,7 +62,7 @@ Follow the given steps to instal Lokon Theme in your browser
 1. Open your browser
 1. Open the Extension Management page
 1. Enable Developer Mode by clicking the toggle switch next to Developer mode.
-1. Click the LOAD UNPACKED button and select the lokon directory.
+1. Click the LOAD UNPACKED button and select the lokon-theme directory.
 1. Enjoy!
 
 
@@ -71,22 +70,19 @@ Follow the given steps to instal Lokon Theme in your browser
 
 > Contributions are always welcome, but always **ask first**, — please — before work on a PR.
 
-- Got Contributions, fun ideas, or issues? [Submit an issue](https://github.com/aliaaquib/lokon/issues/new).  
+- Got Contributions, fun ideas, or issues? [Submit an issue](https://github.com/aliaaquib/lokon-theme/issues/new).  
 
-- Is something bothering you? Feel free to submit [your feedback](https://github.com/aliaaquib/lokon/issues/new).
-
-**Help make Lokon better!**
+- Is something bothering you? Feel free to submit [your feedback](https://github.com/aliaaquib/lokon-theme/issues/new).
 
 ## Dev Setup
 [Coming Soon...](#)
 
 ## Enjoying the Theme?
-Great! I am glad you like i t!
+Great! I am glad you like it!
 
-Just here to show us some love? We 💛 social appreciation, whether it be GitHub stars, [Twitter](https://twitter.com/imaaquibali) follows, or shouting to your coworkers across the office.
+Just here to show us some love? We 💛 social appreciation, whether it be **GitHub stars**, [Twitter](https://twitter.com/imaaquibali) follows, or shouting to your coworkers across the office.
 
 # License
-
-[MIT © Aaquib Ali](https://github.com/aliaaquib/assets/blob/main/LICENSE)
+[MIT © Lokon Theme]()
 
 ---
