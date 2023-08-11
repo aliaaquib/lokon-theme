@@ -1,5 +1,5 @@
 {
-  "name": "Lokon",
+  "name": "Lokon Theme",
   "version": "1.0",
   "description": "Make your web browser look cool with a timeless dark theme. Enjoy the web in style!",
   "author": "Aaquib Ali",
@@ -27,7 +27,8 @@
       "buttons": [0, 0, 0.93]
     },
     "preperties": {
-      "ntp_background_alignment": "bottom"
+      "ntp_background_alignment": "bottom",
+      "ntp_logo_alternate": "none"
     },
     "images": {
       "theme_toolbar": "images/theme_tab_background.png"
