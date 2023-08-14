@@ -10,6 +10,10 @@ Give your browser a cool, cosmic look. Enjoy the web in style!
   <a href="https://www.producthunt.com/posts/lokon-theme">
     <img alt="producthunt url" src="https://img.shields.io/badge/vote%20on-producthunt-1C1E26?style=for-the-badge&labelColor=1C1E26&color=61ffca">
   </a>
+  <a>
+  <a href="https://chrome.google.com/webstore/detail/lokon-theme/mponcfchmngiohbbgjfbkafbedgobiaj?hl=en-GB">
+     <img alt="chrome web store url" src="https://img.shields.io/badge/view%20on-chrome web store-1C1E26?style=for-the-badge&labelColor=1C1E26&color=61ffca">
+  </a>
 </p>
 
 <p align="center">
